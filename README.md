@@ -1,7 +1,7 @@
 
 ## For install the required dependencies
 npm install 
-Or 
+Or <br/>
 yarn
 
 ## runs the program
