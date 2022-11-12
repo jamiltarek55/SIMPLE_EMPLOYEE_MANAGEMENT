@@ -6,13 +6,13 @@
       <div class="row">
         <div class="input-field col s12">
           <input type="text" v-model="employee_id" required>
-          <label>Employee ID#</label>
+          <label>Employee_ID</label>
         </div>
       </div>
       <div class="row">
         <div class="input-field col s12">
           <input type="text" v-model="name" required>
-          <label>Name</label>
+          <label>Full Name</label>
         </div>
       </div>
       <div class="row">
@@ -24,7 +24,7 @@
       <div class="row">
         <div class="input-field col s12">
           <input type="text" v-model="position" required>
-          <label>Name</label>
+          <label>Position_Name</label>
         </div>
       </div>
       <button type="submit" class="btn">Submit</button>
